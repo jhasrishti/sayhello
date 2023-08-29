@@ -4,7 +4,7 @@ In the past 12 years, I have worked in the media with publications like the Hind
 
 ## Work
 
-- [The Queen of Indian Pop: The Authorised Biography of Usha Uthup](https://penguin.co.in/book/the-queen-of-indian-pop/#:~:text=Usha%20Uthup%2C%20India%27s%20undisputed%20icon,and%20continues%20to%20do%20so)
+[The Queen of Indian Pop: The Authorised Biography of Usha Uthup](https://penguin.co.in/book/the-queen-of-indian-pop/#:~:text=Usha%20Uthup%2C%20India%27s%20undisputed%20icon,and%20continues%20to%20do%20so)
 
 ![Usha Uthup](https://cloudfront.penguin.co.in/wp-content/uploads/2022/07/9780670095872.jpg)
 
@@ -17,7 +17,6 @@ In the past 12 years, I have worked in the media with publications like the Hind
 - [The queen of Indian pop: Usha Uthup on her new memoir that celebrates her musical career](https://www.khaleejtimes.com/books/the-queen-of-indian-pop-usha-uthup-on-her-new-memoir-that-celebrates-her-musical-career?amp=1)
 - [‘The Queen of Indian Pop’: English translation of singer Usha Uthup’s biography to be out on February 28
 ](https://indianexpress.com/article/books-and-literature/queen-indian-pop-english-translation-singer-usha-uthups-biography-february-28-7769650/lite/?fbclid=IwAR2qwJvs3RkCfyqpjlxm_gB8ub8mv74S28bC_4icXHJYKdl6oSR6PtcID7M)
-
 
 
 ## Written Articles
@@ -39,3 +38,9 @@ In the past 12 years, I have worked in the media with publications like the Hind
 - [Kamila Shamsie: Home Fire is very much a book about London, and if I had stayed in Karachi I simply wouldn’t have written it: Hindustan Times](https://www.hindustantimes.com/books/kamila-shamsie-home-fire-is-very-much-a-book-about-london-and-if-i-had-stayed-in-karachi-i-simply-wouldn-t-have-written-it/story-2T0qVxqDwMD74oD3W1NKKP.html)
 - [Ezra Miller and why fashion should be gender-neutral: Hindustan Times](https://www.hindustantimes.com/fashion-and-trends/ezra-miller-and-why-fashion-should-be-gender-neutral/story-2YQeD4wXG6cyQ2gkmwZqGL.html)
 - [Forgotten languages of love: DailyO](https://www.dailyo.in/arts/indian-languages-poetry-kaithi-basha-kayastha-love-relationships-12417)
+- [Delhi, this is the cocktail bar you should be heading out to tonight: Vogue](https://www.vogue.in/content/delhi-this-is-the-cocktail-bar-you-should-be-heading-out-to-tonight#s-cust0)
+- [Designed for drama: India Today](https://www.indiatoday.in/magazine/supplement/story/20170508-bibhu-mohapatra-fashion-designer-new-york-journey-986295-2017-04-28)
+- [Where art thou: India Today](https://www.indiatoday.in/magazine/supplement/story/20170116-art-fashion-manjunath-kamath-puneet-kaushik-sir-peter-cook-985536-2017-01-06)
+- [These 5 designers are weaving a new tale of Indian fashion](https://www.indiatoday.in/magazine/supplement/story/20160905-new-stars-of-indian-fashion-rimzim-dadu-mrinalini-gupta-suket-dhir-payal-khandwala-gaurav-jai-gupta-733670-2016-08-26)
+
+<img src = "https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif"/>
