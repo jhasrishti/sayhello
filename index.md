@@ -42,5 +42,5 @@ In the past 12 years, I have worked in the media with publications like the Hind
 - [Designed for drama: India Today](https://www.indiatoday.in/magazine/supplement/story/20170508-bibhu-mohapatra-fashion-designer-new-york-journey-986295-2017-04-28)
 - [Where art thou: India Today](https://www.indiatoday.in/magazine/supplement/story/20170116-art-fashion-manjunath-kamath-puneet-kaushik-sir-peter-cook-985536-2017-01-06)
 - [These 5 designers are weaving a new tale of Indian fashion](https://www.indiatoday.in/magazine/supplement/story/20160905-new-stars-of-indian-fashion-rimzim-dadu-mrinalini-gupta-suket-dhir-payal-khandwala-gaurav-jai-gupta-733670-2016-08-26)
----
+
 <img src = "https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif"/>
