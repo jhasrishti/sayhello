@@ -18,3 +18,8 @@
   transform: scale(1.05);
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
 }
+
+/* Assuming "markdown-content" is a class or ID associated with your Markdown content */
+.markdown-content {
+    font-family: "Your Desired Font", sans-serif;
+}
